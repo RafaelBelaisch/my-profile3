@@ -1,0 +1,39 @@
+h1{
+    font-family: 'Quicksand', sans-serif;
+    color: #e4a3d4;
+    text-align: center;
+}
+
+h2{
+    color: #621055;
+}
+
+#logo{
+    padding: 30px;
+    height: 70px;
+    width: 70px;
+    border-radius: 3px;
+}
+
+#logo:hover{
+    opacity: 0.5;
+}
+
+body{
+    background-image: url(Image/arlo9.gif);
+    background-size: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    font-variant-caps: inherit;
+    color: #010a43;
+}
+
+div{
+    background-color: rgba(177, 164, 169, 0.582);
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    margin: 35px;
+    padding-bottom: 7px;
+    border: 10x;
+    font-family: 'Quicksand';
+}
